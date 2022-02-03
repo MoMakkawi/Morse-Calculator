@@ -5,8 +5,7 @@
 ### the **output** is the output of this equation, but with Morse code, of course the Syntax and Semantic errors of the inputs will be explored .
 
 > Arithmetic operationsin morse code  : 
->> plus =  .-.-. 
->> multiply =  -..-
+>> plus =  .-.-.                                                                                                                                                                       >> multiply =  -..-
 >> minus =  -....-
 >> divide =  -..-.
           
