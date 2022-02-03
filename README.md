@@ -30,4 +30,5 @@ And suppose you made a mistake by entering the equation by entering 9 incorrectl
 The result :
 
 >> Error line = 1 column = 12 : token recognition error at: '----'
+
 >> Error line = 1 column = 16 : mismatched input '<EOF>' expecting {'-----', '.----', '..---', '...--', '....-', '.....', '-....', '--...', '---..', '----.'}
