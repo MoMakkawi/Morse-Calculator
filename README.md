@@ -22,12 +22,13 @@
 - 8 = ---..
 - 9 = ----.
  
-For example, if you wanted to calculate 1 + 9 using this program, you would write: **.---- .-.-. ----.**
+For example, if you wanted to calculate 1 + 9 using this program, you would write:      **.---- .-.-. ----.**
 
-The result, which is of course 10, will look like this:**.---------**
+The result, which is of course 10, will look like this:    **.---------**
 
-And suppose you made a mistake by entering the equation by entering 9 incorrectly like this : **.---- .-.-. ----**
+And suppose you made a mistake by entering the equation by entering 9 incorrectly like this :     **.---- .-.-. ----**
 The result :
 
-> Error line = 1 column = 12 : token recognition error at: '----'
-> Error line = 1 column = 16 : mismatched input '<EOF>' expecting {'-----', '.----', '..---', '...--', '....-', '.....', '-....', '--...', '---..', '----.'}
+>> Error line = 1 column = 12 : token recognition error at: '----'
+
+>> Error line = 1 column = 16 : mismatched input '<EOF>' expecting {'-----', '.----', '..---', '...--', '....-', '.....', '-....', '--...', '---..', '----.'}
