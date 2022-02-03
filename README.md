@@ -5,10 +5,10 @@
 ##### the **output** is the output of this equation, but with Morse code, of course the Syntax and Semantic errors of the inputs will be explored .
 
 > Arithmetic operationsin morse code  : 
->> plus =  .-.-. 
->> multiply =  -..-
->> minus =  -....-
->> divide =  -..-.
+>> - plus =  .-.-. 
+>> - multiply =  -..-
+>> - minus =  -....-
+>> - divide =  -..-.
           
 > Numbers in morse code  :       
 >> 0 = -----
@@ -28,5 +28,7 @@ The result, which is of course 10, will look like this:    **.---------**
 
 And suppose you made a mistake by entering the equation by entering 9 incorrectly like this :     **.---- .-.-. ----**
 The result :
-'Error line = 1 column = 12 : token recognition error at: '----'
- Error line = 1 column = 16 : mismatched input '<EOF>' expecting {'-----', '.----', '..---', '...--', '....-', '.....', '-....', '--...', '---..', '----.'}'
+```
+Error line = 1 column = 12 : token recognition error at: \'----\'
+ Error line = 1 column = 16 : mismatched input '<EOF>' expecting {\'-----\', \'.----\', \'..---\', \'...--\', \'....-\', \'.....\', \'-....\', \'--...\', \'---..\', \'----.\'}
+```
