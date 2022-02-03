@@ -32,7 +32,7 @@ namespace MorseCalculator
 
             var visitor = new MorseCalculatorVisitor();
 
-            if (parser.NumberOfSyntaxErrors == 0)
+            if (Error.NumberOfErrors == 0)
             {
                 var result = visitor.Visit(tree);
                 PrintNumberAsMorseCode(result);
