@@ -41,7 +41,7 @@ namespace MorseCalculator
 
         private static int ConvertToInt(NumberContext MorseNumber)
         {
-            StringBuilder numberAsString = new StringBuilder();
+            StringBuilder numberAsString = new();
             MorseNumber
                 .digit() // Morse Digits of MorseNumber like array
                 .ToList() // Morse Digits of MorseNumber like List

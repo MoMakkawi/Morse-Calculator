@@ -1,4 +1,4 @@
-grammar MorseCalculator;
+﻿grammar MorseCalculator;
 
 /* 
 parser grammar MorseCalculatorParser;
