@@ -5,7 +5,7 @@ the input is an equation in which simple arithmetic operations such as addition,
 the output is the output of this equation, but with Morse code, of course the Syntax and Semantic errors of the inputs will be explored .
 
 in morse code arithmetic operations : 
-          + =  .-.-.
+          + =  .-.-. 
           * =  -..-
           - =  -....-
           / =  -..-.
