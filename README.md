@@ -5,22 +5,22 @@
 ### the **output** is the output of this equation, but with Morse code, of course the Syntax and Semantic errors of the inputs will be explored .
 
 in morse code arithmetic operations : 
-- PLUS =  .-.-. 
-- MULTIPLY =  -..-
-- MINUS =  -....-
-- DIVIDE =  -..-.
+- plus =  .-.-. 
+- multiply =  -..-
+- minus =  -....-
+- divide =  -..-.
           
 in morse code numbers :       
-          0 = -----
-          1 = .----
-          2 = ..---
-          3 = ...--
-          4 = ....-
-          5 = .....
-          6 = -....
-          7 = --...
-          8 = ---..
-          9 = ----.
+- 0 = -----
+- 1 = .----
+- 2 = ..---
+- 3 = ...--
+- 4 = ....-
+- 5 = .....
+- 6 = -....
+- 7 = --...
+- 8 = ---..
+- 9 = ----.
  
 For example, if you wanted to calculate 1 + 9 using this program, you would write:
       .---- .-.-. ----.
