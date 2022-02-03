@@ -1,14 +1,14 @@
 # Morse-Calculator
 
-This project falls under DSL (Domain Spesific Language) ,
-the input is an equation in which simple arithmetic operations such as addition, subtraction, multiplication, division, written in Morse code .
-the output is the output of this equation, but with Morse code, of course the Syntax and Semantic errors of the inputs will be explored .
+## This project falls under DSL (Domain Spesific Language) ,
+### the **input** is an equation in which simple arithmetic operations such as addition, subtraction, multiplication, division, written in Morse code .
+### the **output** is the output of this equation, but with Morse code, of course the Syntax and Semantic errors of the inputs will be explored .
 
 in morse code arithmetic operations : 
-          + =  .-.-. 
-          * =  -..-
-          - =  -....-
-          / =  -..-.
+-+ =  .-.-. 
+-* =  -..-
+-- =  -....-
+-/ =  -..-.
           
 in morse code numbers :       
           0 = -----
