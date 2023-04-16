@@ -1,4 +1,4 @@
-# Morse-Calculator By [Mohamad Makkawi](https://github.com/MoMakkawi)
+# Morse-Calculator 
 
 #### This project falls under DSL (Domain Specific Language) .
 ##### the **Input** is an equation in which simple arithmetic operations such as addition, subtraction, multiplication, division, written in Morse code .
